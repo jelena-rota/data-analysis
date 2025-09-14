@@ -1,6 +1,6 @@
 **Data**
 
-The dataset is collected from multiple public resources published by the Federal Statistical Office of Switzerland. It contains demographic and geographic information for all communes in Switzerland.
+The project dataset was collected from multiple public resources published by the Federal Statistical Office of Switzerland. It contains demographic and geographic information for all communes in Switzerland.
 
 More specifically, the dataset contains the following information for each commune in Switzerland:
 
