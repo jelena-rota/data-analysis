@@ -4,7 +4,7 @@ The dataset is collected from multiple public resources published by the Federal
 
 More specifically, the dataset contains the following information for each commune in Switzerland:
 
-- The canton
+- Name of the canton
 - Name of the commune
 - Language
 - Number of residents
