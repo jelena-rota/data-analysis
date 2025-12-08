@@ -1,3 +1,5 @@
+## Data Analysis Project
+<br/><br/>
 **Data**
 
 The project dataset was collected from multiple public resources published by the Federal Statistical Office of Switzerland. It contains demographic and geographic information for all communes in Switzerland.
@@ -34,6 +36,6 @@ The tasks carried out in the project are divided into 5 sections:
 - Matrices
 <br/><br/>
 
-**Project link**
+**Python Notebook**
 
 https://github.com/jelena-rota/data-analysis/blob/main/data-analysis.ipynb
